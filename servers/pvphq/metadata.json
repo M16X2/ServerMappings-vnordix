@@ -3,7 +3,8 @@
     "name": "PvPHQ",
     "description": "The best competitive Minecraft PvP server, powered by Lunar Client",
     "addresses": [
-        "pvphq.com"
+        "pvphq.com",
+        "flowpvp.gg"
     ],
     "primaryAddress": "pvphq.com",
     "primaryColor": "#f1d93c",
@@ -33,8 +34,13 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
-        "PvP"
+        "Practice",
+        "PvP",
+        "Crystal PvP",
+        "Competitive",
+        "Casual"
     ],
     "socials": {
         "twitter": "playPvPHQ",
